@@ -2,7 +2,7 @@
  * @create 2019-08-05 17:23
  * @desc user info
  **/
-package com.magictown.freeworld.peterpan.service.api.pojo;
+package com.asia.stupid.fucking.shit.api.pojo;
 
 public class UserFeignPOJO {
 
